@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//polonimal sovler solve me polyonmail proplems by ask for a,b,c as a ax^2+bx+c and then ask for the start and the end then its shows the table of the polonial function veritex of curve the maximum or the minimal value and the axis of symity in curve
 int main(){
     system("title math");
     system("cls");
@@ -41,3 +42,4 @@ int main(){
     return 0;
 
 }
+
